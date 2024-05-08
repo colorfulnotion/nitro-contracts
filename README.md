@@ -1,5 +1,7 @@
 # Arbitrum Nitro Rollup Contracts
 
+TODO: add Babylon specs
+
 This is the package with the smart contract code that powers Arbitrum Nitro.
 It includes the rollup and fraud proof smart contracts, as well as interfaces for interacting with precompiles.
 
