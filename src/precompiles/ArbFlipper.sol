@@ -11,7 +11,7 @@ interface ArbFlipper {
 
     function getNumber() external view returns (uint64);
 
-    function setNumber(uint64 newNumber) external returns (bool);
+    function setNumber(uint64 newNumber) external returns (uint64);
 
     function getFlipState() external view returns (uint64);
 
